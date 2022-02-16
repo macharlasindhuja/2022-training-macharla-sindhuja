@@ -13,5 +13,3 @@ Push the changes to the feature branch. List all the branches.
 Raise a PR.
 Give your manager access to repo.
 Don't approve the PR
-===
-++++++++
